@@ -1,0 +1,17 @@
+Blueprint:- Yes! The components are built using React, but their APIs can be accessed using vanilla JavaScript. 
+
+Ant:- React is used to encapsulate a library of Ant Design components. Any other version of frameworks to implement is also welcome. However, If you experience an issue with the library, you may be stuck communicating in Chinese
+
+Cloudflare:- cf-ui is a set of packages used to build UIs at Cloudflare using projects such as React, Fela, Lerna and more
+
+Google Material Design:- Angular-Material, AngularJS modules, directives & services (uses Angular-Material)
+
+
+Atlassian Design Language:- 
+
+Salesforce Lightning Design System:-
+
+
+Heroku Purple3:- Purple3 can be included via our CDN. Place the following in the <head> of your application.
+
+Hewlett Packard grommet:- A design system made for React.js
